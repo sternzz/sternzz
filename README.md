@@ -1,30 +1,29 @@
-# 🌟 About Me
+#### 🌟 About Me
 
-I'm a full stack (MERN) web developer with a passion for creating dynamic and user-friendly web applications.
+Hi there! I'm a full stack (MERN) web developer who loves creating websites and web applications that are easy to use and visually appealing.
 
-## 💻 Skills
+#### 💻 Skills
 
-### Frontend
+##### Frontend
 - HTML
 - CSS
 - JavaScript
 - React.js
 - Next.js
 - Tailwind
-- SCSS
 
-### Backend
+##### Backend
 - Node.js
 - Express
 
-### Databases
+#### Databases
 - MongoDB
 - Supabase
 
-## 🚀 Projects
+#### 🚀 Projects
 
 COMING SOON ...
 
-## 📫 Contact
+#### 📫 Contact
 
-You can reach me at: [Your Email]
+You can reach me at: ...
