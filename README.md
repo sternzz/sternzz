@@ -1,27 +1,30 @@
-# 👋 Hi there, I'm Tarun!
+# 🌟 About Me
 
-🌟 About Me
+I'm a full stack (MERN) web developer with a passion for creating dynamic and user-friendly web applications.
 
-I'm a full stack (MERN) web developer
+## 💻 Skills
 
-💻 Skills
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Next.js
+- Tailwind
+- SCSS
 
-🌐 HTML/CSS/JavaScript
-💾 MONGODB/SUPABASE
+### Backend
+- Node.js
+- Express
 
-Frontend
-React.js / Next.js
-Tailwind, SCSS
+### Databases
+- MongoDB
+- Supabase
 
-Backend
-Node.js - Express
-
-🚀 Projects
+## 🚀 Projects
 
 COMING SOON ...
 
-You can reach me at:
+## 📫 Contact
 
-📧 Email Address
-🌐 LinkedIn
-🐦 Twitter
+You can reach me at: [Your Email]
