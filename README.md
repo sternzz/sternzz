@@ -2,7 +2,7 @@
 
 Hi there! I'm a full stack (MERN) web developer who loves creating websites and web applications that are easy to use and visually appealing.
 
-#### 💻 Skills
+#### 💻 My Skills Include
 
 ##### Frontend
 - HTML
@@ -13,16 +13,17 @@ Hi there! I'm a full stack (MERN) web developer who loves creating websites and 
 - Tailwind
 
 ##### Backend
-- Node.js
-- Express
+- Node.js ( Express )
 
 #### Databases
 - MongoDB
 - Supabase
+- (MySQL, PostgreSQL) with Prisma ORM
 
 #### 🚀 Projects
 
 COMING SOON ...
+In the meantime you can check my repositories
 
 #### 📫 Contact
 
